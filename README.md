@@ -18,4 +18,8 @@ Below is the unit outline with links to the study material:
 
 
 ### References:
-1- 
+1. [Introduction to Statistical Machine Learning Book] (https://www.statlearning.com) 
+2. [The Elements of Statistical Machine Learning Book]] (https://hastie.su.domains/ElemStatLearn)
+3. [Dive into Deep Learning Book](https://d2l.ai)
+4. 
+
