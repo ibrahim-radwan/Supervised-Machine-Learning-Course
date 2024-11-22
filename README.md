@@ -5,7 +5,7 @@ This includes the material for the Supervised Machine Learrning Course - Summer 
 
 Below is the unit outline with links to the study material:
 
-| **Week**    | **Material**                                                                           | **Practices & Activities** | **Recommended Reading**  |
+| **Week**    | **Lecture Material**                                                                           | **Practices & Activities** | **Recommended Reading**  |
 |-------------|----------------------------------------------------------------------------------------|----------------------------|--------------------------|
 | Lecture-1   | - Linear Regression ([Notes]() - [Video]())                                           | - [Notebook]()             | Chapter 3 of ESL ||       |
 | Lecture-2   | - Linear Classification ([Notes]() - [Video]())                                       | - [Notebook]()             | ---                       |
