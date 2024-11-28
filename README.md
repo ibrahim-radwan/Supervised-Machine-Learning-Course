@@ -7,8 +7,8 @@ Below is the unit outline with links to the study material:
 
 | ****    | **Lecture Material**                                                                           | **Practices & Activities** | **Recommended Reading**  |
 |-------------|----------------------------------------------------------------------------------------|----------------------------|--------------------------|
-| Lecture-1   | - Linear Regression ([Notes](/lectures/lecture-1/1.pdf) - [Video](https://youtu.be/SdGC7mVkVoU))                                           | - [Notebook]()             | Chapter 3 of ESL ||       |
-| Lecture-2   | - Linear Classification ([Notes]() - [Video]())                                       | - [Notebook]()             | ---                       |
+| Lecture-1   | - Linear Regression ([Notes](/lectures/lecture-1/1.pdf) - [Video](https://youtu.be/SdGC7mVkVoU))                                           | - [Notebook](lectures/lecture-1/Linear_Regression_California_Housing_Descriptive.ipynb)             | Chapter 3 of ESL |
+| Lecture-2   | - Linear Classification ([Notes]() - [Video]())                                       | - [Notebook]()             |  Chapter 4 of ESL                        |
 | Lecture-3   | - Kernel Functions ([Notes]() - [Video]())                                            | - [Notebook]()             | ---                       |
 | Lecture-4   | - Neural Networks 1 ([Notes]() - [Video]())                                           | - [Notebook]()             | ---                       |
 | Lecture-5   | - Neural Networks 2 ([Notes]() - [Video]())                                           | - [Notebook]()             | ---                       |
