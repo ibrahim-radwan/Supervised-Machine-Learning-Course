@@ -10,9 +10,9 @@ Below is the unit outline with links to the study material:
 | Lecture-1   | - Linear Regression ([Notes](/lectures/lecture-1/1.pdf) - [Video](https://youtu.be/SdGC7mVkVoU))                                           | - [Notebook](lectures/lecture-1/Linear_Regression_California_Housing_Descriptive.ipynb)             | Chapter 3 of ESL |
 | Lecture-2   | - Linear Classification ([Notes](lectures/From-Linear-to-Logistic-Regression.pdf) - [Video](https://www.youtube.com/watch?v=uhRSTw-seYU))                                       | - [Notebook](In the slides)             |  Chapter 4 of ESL                        |
 | Lecture-3   | - Kernel Functions ([Notes]() - [Video]())                                            | - [Notebook]()             | ---                       |
-| Lecture-4   | - Neural Networks 1 ([Notes]() - [Video]())                                           | - [Notebook]()             | ---                       |
-| Lecture-5   | - Neural Networks 2 ([Notes]() - [Video]())                                           | - [Notebook]()             | ---                       |
-| Lecture-6   | - Neural Networks 3 ([Notes]() - [Video]())                                           | - [Notebook]()             | ---                       |
+| Lecture-4   | - Neural Networks 1 ([Notes]() - [Video](https://www.youtube.com/watch?v=poScThB06S4))                                           | - [Notebook]()             | ---                       |
+| Lecture-5   | - Neural Networks 2 ([Notes]() - [Video](https://www.youtube.com/watch?v=u__6YYnQWBc))                                           | - [Notebook]()             | ---                       |
+| Lecture-6   | - Neural Networks 3 ([Notes]() - [Video](https://www.youtube.com/watch?v=msTlvaWU4fE))                                           | - [Notebook]()             | ---                       |
 | Lecture-7   | - Computer Vision Case Study ([Notes]() - [Video]())                                  | - [Notebook]()             | ---                       |
 | Lecture-8   | - Natural Language Processing Case Study ([Notes]() - [Video]())                     | - [Notebook]()             | ---                        |
 
